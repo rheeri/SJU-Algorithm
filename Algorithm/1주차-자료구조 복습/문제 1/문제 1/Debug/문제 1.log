@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\github\sju-coursenotes\algorithm\1주차-자료구조 복습\문제 1\문제 1\소스.c(24): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+c:\github\sju-coursenotes\algorithm\1주차-자료구조 복습\문제 1\문제 1\소스.c(23): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+  문제 1.vcxproj -> C:\Github\SJU-CourseNotes\Algorithm\1주차-자료구조 복습\문제 1\Debug\문제 1.exe
