@@ -1,6 +1,3 @@
-# 세종대학교 알고리즘및실습
-알고리즘및실습 수업용 repository입니다. 강의자료와 실습코드를 upload할 예정입니다.
-
 # Info
 - semester : 3-2
 - professor : 노재춘
